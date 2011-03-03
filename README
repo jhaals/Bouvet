@@ -45,7 +45,8 @@ Mått och vikt
     Ingen sommartid observeras. I all kommunikation med omvärlden uppmanas invånare och medborgare att använda UTC.
     Samtliga klockor som syns från offentlig plats måste vara inom 30s från rätt tid. Finns visning av sekunder måste den vara inom 5s.
 
-    
+Datum
+    Bouvet ignorerar veckonummer inom ISO 8601
 
 Högtider
     Bouvets självständighetsdag
